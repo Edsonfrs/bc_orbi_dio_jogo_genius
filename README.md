@@ -14,6 +14,7 @@ Nesse projeto, o desafio será criar um jogo Gênesis utilizando apenas HTML, CS
 ## Instrutor(a)
 
 Gabriela Pinheiro
+
 Frontend Engineer, Cornershop by Uber
 
 ## Entidade
@@ -28,6 +29,8 @@ Edson souza
 [Linkedin](https://www.linkedin.com/in/edsonfrs/)
 
 [GitHub](https://github.com/Edsonfrs)
+
+
 
 
 
